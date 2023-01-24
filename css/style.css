@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Merriweather', serif;
+}
+
+.attribution {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.card{
+    background-color: hsl(0, 0%, 100%);
+    display: inline-block;
+    height: 340px;
+    width: 200px;
+    padding: 20px 10px 10px;
+    margin-top: 100px;
+    border-radius: 3%;
+}
+img{
+    height: 200px;
+    border-radius: 3%;
+}
+.improve{
+    font-family: 'Outfit', sans-serif;
+}
+.content{
+    color: hsl(220, 15%, 55%);
+    font-size: 11px;
+}
